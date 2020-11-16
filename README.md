@@ -45,8 +45,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parv3213&layout=compact)](https://github.com/parv3213/github-readme-stats)
 
-[![Parv's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=parv3213)](https://github.com/parv3213/github-readme-stats)
-
 [GitHub]: https://github.com/parv-somish
 [twitter]: https://twitter.com/parv3213
 [instagram]: https://www.instagram.com/parv_
