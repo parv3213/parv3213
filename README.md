@@ -41,8 +41,6 @@
 
 <summary>GitHub Stats</summary>
 
-<img align="left" alt="Parv Github Stats" src="https://github-readme-stats.vercel.app/api?username=parv3213&show_icons=true&theme=buefy"/>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parv3213&layout=compact)](https://github.com/parv3213/github-readme-stats)
 
 [GitHub]: https://github.com/parv-somish
