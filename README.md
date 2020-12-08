@@ -1,6 +1,6 @@
-### Hi there, I'm Parv! 👋
+<h1> How you doin <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
-### I'm a Full Stack Blockchain Developer!
+### I'm Parv Garg, a Full Stack Blockchain Developer!
 
 - 🔭 I’m currently working at [Somish](https://www.somish.com/), Delhi.
 - 🌱 I’m currently learning as much as I possibly can..😅
@@ -9,12 +9,10 @@
 - ⚡ Fun fact: I've gained wide breadth of knowledge just due to curiosity.
 - Checkout my [Somish Github Id](https://github.com/parv-somish) 💪
 
-### Connect with me:
-
-[<img align="left" alt="parv3213 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/github.svg" />][GitHub]
-[<img align="left" alt="parv3213 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="parv3213 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="parv3213 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<h3>Where to find me</h3>
+<p><a href="https://github.com/parv3213" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/parv3213" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/parv3213" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@parv3213" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://www.instagram.com/parv_" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram
+" /></a>
+</p>
 
 <br />
 
@@ -48,7 +46,5 @@
 [instagram]: https://www.instagram.com/parv_
 [linkedin]: https://www.linkedin.com/in/parv3213/
 
-
-<!--
-**parv3213/parv3213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
