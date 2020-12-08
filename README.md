@@ -48,6 +48,8 @@
 
 <!--START_SECTION:waka-->
 ```text
+Week: 30 November, 2020 - 07 December, 2020
+
 JavaScript   21 hrs 56 mins  ███████████████████▓░░░░░   78.86 % 
 JSX          2 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
 Solidity     1 hr 37 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
