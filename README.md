@@ -47,4 +47,11 @@
 [linkedin]: https://www.linkedin.com/in/parv3213/
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   21 hrs 56 mins  ███████████████████▓░░░░░   78.86 % 
+JSX          2 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+Solidity     1 hr 37 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Other        1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+JSON         30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+```
 <!--END_SECTION:waka-->
