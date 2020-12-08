@@ -38,6 +38,15 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=parv3213.visitor_count)
 
 <!--START_SECTION:waka-->
+```text
+Week: 30 November, 2020 - 07 December, 2020
+
+JavaScript   21 hrs 56 mins  ███████████████████▓░░░░░   78.86 % 
+JSX          2 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+Solidity     1 hr 37 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Other        1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+JSON         30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+```
 <!--END_SECTION:waka-->
 
 <summary>GitHub Stats</summary>
