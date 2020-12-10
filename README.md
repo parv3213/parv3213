@@ -39,13 +39,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 December, 2020 - 08 December, 2020
+Week: 02 December, 2020 - 09 December, 2020
 
-JavaScript   21 hrs 56 mins  ███████████████████▓░░░░░   78.86 % 
-JSX          2 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-Solidity     1 hr 37 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-Other        1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-JSON         30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+JavaScript   23 hrs 45 mins  ████████████████████▒░░░░   81.70 % 
+Solidity     1 hr 32 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+Other        1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Markdown     1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+JSON         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 ```
 <!--END_SECTION:waka-->
 
