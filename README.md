@@ -39,13 +39,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 December, 2020 - 22 December, 2020
+Week: 16 December, 2020 - 23 December, 2020
 
-JavaScript   17 hrs 58 mins  ██████████████████████▒░░   89.25 % 
-Other        33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
-JSX          28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-Solidity     25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-CSV          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+JavaScript   13 hrs 32 mins  ██████████████████████▓░░   91.33 % 
+Other        20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Solidity     18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+CSV          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Python       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 ```
 <!--END_SECTION:waka-->
 
