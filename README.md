@@ -39,10 +39,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 December, 2020 - 28 December, 2020
-
-JavaScript   33 mins         ███████████████████▒░░░░░   77.74 % 
-Python       8 mins          █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
