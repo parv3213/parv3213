@@ -39,9 +39,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 January, 2021 - 13 January, 2021
+Week: 07 January, 2021 - 14 January, 2021
 
-Solidity   11 mins         █████████████████████████   100.00 % 
+TypeScript   1 hr 1 min      ███████████████▒░░░░░░░░░   61.32 % 
+Other        23 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.01 % 
+Solidity     11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+JSON         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 ```
 <!--END_SECTION:waka-->
 
