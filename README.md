@@ -39,13 +39,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 January, 2021 - 20 January, 2021
+Week: 14 January, 2021 - 21 January, 2021
 
-JavaScript   3 hrs 17 mins   ███████████▓░░░░░░░░░░░░░   47.26 % 
-TypeScript   1 hr 18 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.93 % 
-Solidity     44 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-JSX          44 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-Other        24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+JavaScript   4 hrs 34 mins   ████████████▒░░░░░░░░░░░░   48.93 % 
+Python       2 hrs 48 mins   ███████▓░░░░░░░░░░░░░░░░░   30.07 % 
+Solidity     44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+JSX          44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+TypeScript   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 ```
 <!--END_SECTION:waka-->
 
