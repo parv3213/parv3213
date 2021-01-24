@@ -39,7 +39,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 January, 2021 - 22 January, 2021
+Week: 16 January, 2021 - 23 January, 2021
 
 JavaScript   4 hrs 51 mins   ████████████░░░░░░░░░░░░░   48.29 % 
 Python       3 hrs 16 mins   ████████░░░░░░░░░░░░░░░░░   32.49 % 
