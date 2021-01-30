@@ -39,11 +39,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 January, 2021 - 28 January, 2021
+Week: 22 January, 2021 - 29 January, 2021
 
-JavaScript   2 hrs 16 mins   ████████████████████▒░░░░   80.83 % 
-Python       27 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-JSON         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+JavaScript   2 hrs 27 mins   ███████████████▓░░░░░░░░░   62.30 % 
+JSX          1 hr 15 mins    ████████░░░░░░░░░░░░░░░░░   31.77 % 
+JSON         14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
 ```
 <!--END_SECTION:waka-->
 
