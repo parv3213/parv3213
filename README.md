@@ -39,7 +39,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 January, 2021 - 29 January, 2021
+Week: 23 January, 2021 - 30 January, 2021
 
 JavaScript   2 hrs 27 mins   ███████████████▓░░░░░░░░░   62.30 % 
 JSX          1 hr 15 mins    ████████░░░░░░░░░░░░░░░░░   31.77 % 
