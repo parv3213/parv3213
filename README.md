@@ -39,13 +39,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 February, 2021 - 11 February, 2021
+Week: 05 February, 2021 - 12 February, 2021
 
-Other        1 hr 55 mins    █████████▒░░░░░░░░░░░░░░░   37.83 % 
-Solidity     1 hr 39 mins    ████████▒░░░░░░░░░░░░░░░░   32.74 % 
-JSX          1 hr 7 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.96 % 
-JavaScript   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-Git Config   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+JSX          1 hr 7 mins     █████████████░░░░░░░░░░░░   52.09 % 
+Other        27 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.59 % 
+Solidity     18 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+JavaScript   9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+Git Config   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 ```
 <!--END_SECTION:waka-->
 
