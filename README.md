@@ -39,7 +39,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 February, 2021 - 13 February, 2021
+Week: 07 February, 2021 - 14 February, 2021
 
 JSX          20 mins         █████████░░░░░░░░░░░░░░░░   36.38 % 
 Solidity     17 mins         ███████▓░░░░░░░░░░░░░░░░░   31.04 % 
