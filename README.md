@@ -39,13 +39,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 February, 2021 - 19 February, 2021
+Week: 13 February, 2021 - 20 February, 2021
 
-Solidity     10 hrs 40 mins  ████████████████░░░░░░░░░   64.40 % 
-JavaScript   2 hrs 16 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Other        1 hr 26 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-JSX          1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-JSON         38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Solidity     11 hrs 9 mins   ███████████████▓░░░░░░░░░   63.19 % 
+JavaScript   2 hrs 39 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Other        1 hr 26 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+JSX          1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+JSON         38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 ```
 <!--END_SECTION:waka-->
 
