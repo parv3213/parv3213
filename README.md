@@ -39,10 +39,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 March, 2021 - 15 March, 2021
+Week: 09 March, 2021 - 16 March, 2021
 
-Solidity     1 hr 17 mins    ███████████████▒░░░░░░░░░   61.63 % 
-JavaScript   47 mins         █████████▒░░░░░░░░░░░░░░░   37.76 % 
+Solidity     1 hr 36 mins    ██████████▒░░░░░░░░░░░░░░   40.76 % 
+JavaScript   1 hr 13 mins    ███████▓░░░░░░░░░░░░░░░░░   31.02 % 
+JSX          28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+JSON         26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Sass         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 ```
 <!--END_SECTION:waka-->
 
