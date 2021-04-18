@@ -39,13 +39,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 April, 2021 - 16 April, 2021
+Week: 10 April, 2021 - 17 April, 2021
 
-Solidity     7 hrs 5 mins    ██████████▒░░░░░░░░░░░░░░   41.57 % 
-JavaScript   5 hrs 14 mins   ███████▓░░░░░░░░░░░░░░░░░   30.72 % 
-JSON         2 hrs 4 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-JSX          52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-Markdown     48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Solidity     7 hrs 7 mins    ███████████░░░░░░░░░░░░░░   43.98 % 
+JavaScript   4 hrs 21 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.90 % 
+JSON         2 hrs 4 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+JSX          52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Markdown     48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 ```
 <!--END_SECTION:waka-->
 
