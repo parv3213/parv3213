@@ -39,13 +39,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 April, 2021 - 28 April, 2021
+Week: 22 April, 2021 - 29 April, 2021
 
-Solidity     7 hrs 41 mins   █████████████░░░░░░░░░░░░   52.10 % 
-JavaScript   2 hrs 46 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.78 % 
-TypeScript   1 hr 21 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-YAML         1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-JSON         1 hr 7 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+Solidity     8 hrs 15 mins   ██████████▒░░░░░░░░░░░░░░   41.87 % 
+JavaScript   5 hrs 19 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.97 % 
+TypeScript   2 hrs 22 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+YAML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+JSON         1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
 ```
 <!--END_SECTION:waka-->
 
