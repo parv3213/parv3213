@@ -39,11 +39,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 May, 2021 - 30 May, 2021
+Week: 24 May, 2021 - 31 May, 2021
 
-Solidity     13 hrs 10 mins  █████████████████████░░░░   83.71 % 
-JavaScript   2 hrs 18 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-JSON         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Solidity     11 hrs 17 mins  ███████████████████▓░░░░░   78.81 % 
+JavaScript   2 hrs 38 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.45 % 
+JSON         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 ```
 <!--END_SECTION:waka-->
 
