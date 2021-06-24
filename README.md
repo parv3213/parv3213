@@ -39,12 +39,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 June, 2021 - 22 June, 2021
+Week: 17 June, 2021 - 23 June, 2021
 
-Solidity     9 hrs 54 mins   █████████████████▒░░░░░░░   69.44 % 
-JavaScript   3 hrs 37 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.46 % 
-Text         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-JSON         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Solidity     14 hrs 5 mins   ██████████████████▒░░░░░░   73.92 % 
+JavaScript   4 hrs 5 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.43 % 
+Text         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Git Config   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 ```
 <!--END_SECTION:waka-->
 
