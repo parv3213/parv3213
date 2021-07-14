@@ -39,13 +39,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 July, 2021 - 12 July, 2021
+Week: 07 July, 2021 - 13 July, 2021
 
-Solidity     9 hrs 14 mins   █████████████████▒░░░░░░░   69.82 % 
-JavaScript   3 hrs 32 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.83 % 
-Text         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Solidity     10 hrs 50 mins  ██████████████████░░░░░░░   71.74 % 
+JavaScript   3 hrs 45 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.89 % 
+Text         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+JSON         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 ```
 <!--END_SECTION:waka-->
 
