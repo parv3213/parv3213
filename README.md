@@ -39,13 +39,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 July, 2021 - 22 July, 2021
+Week: 17 July, 2021 - 23 July, 2021
 
-Solidity     7 hrs 35 mins   ██████████████░░░░░░░░░░░   56.56 % 
-JavaScript   3 hrs 22 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.15 % 
-Other        47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-JSON         40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Markdown     22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Solidity     8 hrs 20 mins   ███████████████▒░░░░░░░░░   61.17 % 
+JavaScript   2 hrs 22 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.44 % 
+JSON         1 hr 4 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+Other        55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+Markdown     22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 <!--END_SECTION:waka-->
 
