@@ -39,13 +39,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 August, 2021 - 08 August, 2021
+Week: 03 August, 2021 - 09 August, 2021
 
-Solidity     14 hrs 14 mins  ███████████████░░░░░░░░░░   60.64 % 
-JavaScript   6 hrs 50 mins   ███████▒░░░░░░░░░░░░░░░░░   29.14 % 
-JSON         41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-Markdown     24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-YAML         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Solidity     12 hrs 56 mins  █████████████░░░░░░░░░░░░   51.89 % 
+JavaScript   9 hrs 50 mins   ██████████░░░░░░░░░░░░░░░   39.47 % 
+JSON         38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Markdown     24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+TypeScript   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 ```
 <!--END_SECTION:waka-->
 
