@@ -37,6 +37,8 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=parv3213.visitor_count)
 
+[![wakatime](https://wakatime.com/badge/user/1e945d26-ba35-4c18-955c-1d409f786cc7.svg)](https://wakatime.com/@1e945d26-ba35-4c18-955c-1d409f786cc7)
+
 <!--START_SECTION:waka-->
 ```text
 Week: 05 October, 2021 - 11 October, 2021
