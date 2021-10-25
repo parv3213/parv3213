@@ -41,13 +41,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 October, 2021 - 23 October, 2021
+Week: 18 October, 2021 - 24 October, 2021
 
-Solidity     5 hrs 38 mins   █████████▒░░░░░░░░░░░░░░░   37.59 % 
-TypeScript   5 hrs           ████████▒░░░░░░░░░░░░░░░░   33.41 % 
-JavaScript   3 hrs 11 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.24 % 
-JSON         50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-Bash         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Solidity     5 hrs 35 mins   ██████████▓░░░░░░░░░░░░░░   43.27 % 
+TypeScript   3 hrs 31 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.21 % 
+JavaScript   3 hrs 2 mins    ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
+JSON         39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 ```
 <!--END_SECTION:waka-->
 
