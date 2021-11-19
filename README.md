@@ -41,13 +41,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 November, 2021 - 17 November, 2021
+Week: 12 November, 2021 - 18 November, 2021
 
-TypeScript   8 hrs 12 mins   █████████████▓░░░░░░░░░░░   54.18 % 
-Solidity     3 hrs 30 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.14 % 
-YAML         1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-JSON         50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-GraphQL      47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+TypeScript   8 hrs 11 mins   ████████████████▒░░░░░░░░   65.02 % 
+Solidity     3 hrs 39 mins   ███████▒░░░░░░░░░░░░░░░░░   28.98 % 
+JavaScript   31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Bash         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 ```
 <!--END_SECTION:waka-->
 
