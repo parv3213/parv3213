@@ -41,7 +41,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 November, 2021 - 20 November, 2021
+Week: 15 November, 2021 - 21 November, 2021
 
 TypeScript   7 hrs 28 mins   █████████████████░░░░░░░░   68.01 % 
 Solidity     3 hrs 8 mins    ███████░░░░░░░░░░░░░░░░░░   28.52 % 
