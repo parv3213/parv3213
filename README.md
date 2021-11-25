@@ -41,13 +41,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 November, 2021 - 23 November, 2021
+Week: 18 November, 2021 - 24 November, 2021
 
-TypeScript   7 hrs 30 mins   █████████████▓░░░░░░░░░░░   54.28 % 
-Solidity     4 hrs 43 mins   ████████▓░░░░░░░░░░░░░░░░   34.15 % 
-JSON         1 hr 15 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-Bash         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-Git Config   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+TypeScript   6 hrs 36 mins   ███████████▓░░░░░░░░░░░░░   46.05 % 
+Solidity     5 hrs 51 mins   ██████████▒░░░░░░░░░░░░░░   40.84 % 
+JSON         1 hr 31 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+Bash         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Git Config   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 ```
 <!--END_SECTION:waka-->
 
