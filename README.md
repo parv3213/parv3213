@@ -40,12 +40,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 December, 2021 - 25 December, 2021
+Week: 20 December, 2021 - 26 December, 2021
 
-TypeScript   11 hrs 20 mins  ████████████████░░░░░░░░░   64.31 % 
-Solidity     5 hrs 53 mins   ████████▒░░░░░░░░░░░░░░░░   33.42 % 
-JSON         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-Bash         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+TypeScript   11 hrs 35 mins  ████████████████▒░░░░░░░░   65.53 % 
+Solidity     5 hrs 45 mins   ████████░░░░░░░░░░░░░░░░░   32.60 % 
+JSON         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
 <!--END_SECTION:waka-->
 
