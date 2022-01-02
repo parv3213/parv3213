@@ -40,13 +40,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 December, 2021 - 31 December, 2021
+Week: 26 December, 2021 - 01 January, 2022
 
-TypeScript   13 hrs 50 mins  ████████████████▒░░░░░░░░   65.66 % 
-Solidity     4 hrs 54 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.28 % 
-JSON         1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-GraphQL      28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-YAML         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+TypeScript   12 hrs 15 mins  ███████████████▒░░░░░░░░░   61.19 % 
+Solidity     5 hrs 13 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.06 % 
+JSON         1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+GraphQL      28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+YAML         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 ```
 <!--END_SECTION:waka-->
 
