@@ -40,13 +40,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 January, 2022 - 15 January, 2022
+Week: 10 January, 2022 - 16 January, 2022
 
-TypeScript   6 hrs 35 mins   ████████████▓░░░░░░░░░░░░   51.06 % 
-Solidity     5 hrs 33 mins   ██████████▓░░░░░░░░░░░░░░   42.95 % 
-JSON         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-Git Config   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-Bash         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+TypeScript   6 hrs 35 mins   ████████████░░░░░░░░░░░░░   48.40 % 
+Solidity     6 hrs 15 mins   ███████████▒░░░░░░░░░░░░░   45.84 % 
+JSON         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Git Config   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Bash         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 ```
 <!--END_SECTION:waka-->
 
