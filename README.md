@@ -40,7 +40,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 January, 2022 - 02 February, 2022
+Week: 28 January, 2022 - 03 February, 2022
 
 TypeScript   6 hrs 11 mins   ██████████████████▓░░░░░░   75.32 % 
 Solidity     1 hr 27 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.73 % 
