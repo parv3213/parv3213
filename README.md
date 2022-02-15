@@ -40,10 +40,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 February, 2022 - 13 February, 2022
+Week: 08 February, 2022 - 14 February, 2022
 
-TypeScript   39 mins         ███████████████████████▒░   92.76 % 
-Solidity     3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+Markdown     1 hr 4 mins     ██████████▒░░░░░░░░░░░░░░   41.90 % 
+Solidity     47 mins         ███████▓░░░░░░░░░░░░░░░░░   31.15 % 
+TypeScript   41 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.79 % 
 ```
 <!--END_SECTION:waka-->
 
