@@ -40,13 +40,15 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 February, 2022 - 15 February, 2022
+Week: 10 February, 2022 - 16 February, 2022
 
-Total: 2 hrs 33 mins
+Total: 5 hrs 47 mins
 
-Markdown     1 hr 4 mins     ██████████▒░░░░░░░░░░░░░░   41.90 % 
-Solidity     47 mins         ███████▓░░░░░░░░░░░░░░░░░   31.15 % 
-TypeScript   41 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.79 % 
+Markdown     2 hrs 8 mins    █████████▒░░░░░░░░░░░░░░░   36.85 % 
+TypeScript   1 hr 49 mins    ████████░░░░░░░░░░░░░░░░░   31.57 % 
+Solidity     1 hr 34 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.09 % 
+JavaScript   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 ```
 <!--END_SECTION:waka-->
 
