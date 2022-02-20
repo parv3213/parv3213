@@ -40,9 +40,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 February, 2022 - 18 February, 2022
-
-Total: 5 hrs 39 mins
+Week: 13 February, 2022 - 19 February, 2022
 
 Markdown     2 hrs 8 mins    █████████▒░░░░░░░░░░░░░░░   37.74 % 
 Solidity     2 hrs           █████████░░░░░░░░░░░░░░░░   35.51 % 
