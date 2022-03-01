@@ -39,15 +39,18 @@
 [![wakatime](https://wakatime.com/badge/user/1e945d26-ba35-4c18-955c-1d409f786cc7.svg)](https://wakatime.com/@1e945d26-ba35-4c18-955c-1d409f786cc7)
 
 <!--START_SECTION:waka-->
-```text
-From: 17 February, 2022 - To: 24 February, 2022
 
-Solidity     1 hr 38 mins    █████████▓░░░░░░░░░░░░░░░   38.65 % 
-TypeScript   1 hr 16 mins    ███████▓░░░░░░░░░░░░░░░░░   30.08 % 
-Markdown     1 hr 3 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.13 % 
-JavaScript   11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+```text
+From: 21 February 2022 - To: 28 February 2022
+
+Solidity     4 hrs 6 mins    █████████▓░░░░░░░░░░░░░░░   39.02 %
+TypeScript   3 hrs 43 mins   █████████░░░░░░░░░░░░░░░░   35.38 %
+JavaScript   1 hr 46 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.83 %
+Bash         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+Markdown     19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+HTML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
 ```
+
 <!--END_SECTION:waka-->
 
 <summary>GitHub Stats</summary>
