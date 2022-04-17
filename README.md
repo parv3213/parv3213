@@ -41,7 +41,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 April 2022 - To: 15 April 2022
+From: 09 April 2022 - To: 16 April 2022
 
 Solidity     6 hrs 41 mins   █████████████████░░░░░░░░   68.20 %
 JavaScript   2 hrs 23 mins   ██████░░░░░░░░░░░░░░░░░░░   24.36 %
