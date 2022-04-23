@@ -41,13 +41,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 April 2022 - To: 21 April 2022
+From: 15 April 2022 - To: 22 April 2022
 
-Solidity     7 hrs           ████████████████░░░░░░░░░   64.10 %
-TypeScript   2 hrs 38 mins   ██████░░░░░░░░░░░░░░░░░░░   24.19 %
-JavaScript   47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
-JSON         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Solidity     7 hrs 16 mins   ███████████████▓░░░░░░░░░   62.93 %
+TypeScript   3 hrs 5 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.73 %
+JavaScript   44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+JSON         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
