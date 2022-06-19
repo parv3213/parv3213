@@ -41,7 +41,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 June 2022 - To: 17 June 2022
+From: 11 June 2022 - To: 18 June 2022
 
 Solidity     1 hr 11 mins    ███████████████▒░░░░░░░░░   61.93 %
 TypeScript   42 mins         █████████░░░░░░░░░░░░░░░░   36.29 %
