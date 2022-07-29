@@ -41,13 +41,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 July 2022 - To: 27 July 2022
+From: 21 July 2022 - To: 28 July 2022
 
-Solidity     3 hrs 18 mins   █████████████████▓░░░░░░░   70.31 %
-TypeScript   1 hr 16 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.11 %
-JSON         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Solidity     5 hrs 33 mins   ████████████████▓░░░░░░░░   66.02 %
+TypeScript   1 hr 43 mins    █████░░░░░░░░░░░░░░░░░░░░   20.53 %
+Markdown     49 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
+JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 ```
 
 <!--END_SECTION:waka-->
