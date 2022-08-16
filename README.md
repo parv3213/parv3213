@@ -4,7 +4,7 @@
 
 - 🔭 I’m working as a Freelancer 🌟
 - 🌱 I’m currently learning as much as I possibly can..😅
-- 🥅 2021 Goals: Contribute more to Open Source projects 😎
+- 🥅 2022 Goals: Contribute more to Open Source projects 😎
 - ⚡ Fun fact: I've gained wide breadth of knowledge just due to curiosity.
 - Checkout my [Somish Github Id](https://github.com/parv-somish) 💪
 
