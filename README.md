@@ -41,11 +41,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 September 2022 - To: 03 October 2022
+From: 27 September 2022 - To: 04 October 2022
 
-Solidity   39 mins         ██████████████████▒░░░░░░   73.47 %
-JSON       14 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.35 %
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+TypeScript   1 hr 11 mins    █████████▓░░░░░░░░░░░░░░░   38.07 %
+CSS          1 hr 3 mins     ████████▒░░░░░░░░░░░░░░░░   33.63 %
+JSON         18 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
+HTML         17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
+Solidity     16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
