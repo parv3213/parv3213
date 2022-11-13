@@ -41,11 +41,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 November 2022 - To: 11 November 2022
+From: 05 November 2022 - To: 12 November 2022
 
-TypeScript   1 hr 31 mins    ███████████████████▒░░░░░   77.91 %
-Solidity     20 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.07 %
-Other        4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+TypeScript   32 mins         ██████████████▒░░░░░░░░░░   56.87 %
+Solidity     20 mins         ████████▓░░░░░░░░░░░░░░░░   34.96 %
+Other        4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
 ```
 
 <!--END_SECTION:waka-->
