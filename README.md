@@ -41,10 +41,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 November 2022 - To: 17 November 2022
+From: 11 November 2022 - To: 18 November 2022
 
-Solidity     54 mins         ██████████████████████▒░░   88.97 %
-Other        4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
+Solidity     33 mins         ███████████████████████▓░   94.42 %
+TypeScript   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+JSON         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
