@@ -41,7 +41,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 25 January 2023 - To: 01 February 2023
+
+Solidity   0 secs          ███████████████▒░░░░░░░░░   60.75 %
+GraphQL    0 secs          █████████▓░░░░░░░░░░░░░░░   39.25 %
 ```
 
 <!--END_SECTION:waka-->
