@@ -41,10 +41,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 January 2023 - To: 02 February 2023
+From: 27 January 2023 - To: 03 February 2023
 
-Solidity   0 secs          ███████████████▒░░░░░░░░░   60.75 %
-GraphQL    0 secs          █████████▓░░░░░░░░░░░░░░░   39.25 %
+TypeScript   2 hrs 12 mins   ███████████████████████░░   92.32 %
+JSON         7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
+Other        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
 ```
 
 <!--END_SECTION:waka-->
