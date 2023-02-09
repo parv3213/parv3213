@@ -41,10 +41,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 January 2023 - To: 07 February 2023
+From: 01 February 2023 - To: 08 February 2023
 
-TypeScript   4 hrs 19 mins   ████████████████████▓░░░░   82.71 %
-Other        36 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 %
+TypeScript   5 hrs 18 mins   ████████████████████░░░░░   79.54 %
+Other        43 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
 ```
 
 <!--END_SECTION:waka-->
