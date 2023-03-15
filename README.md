@@ -41,12 +41,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 March 2023 - To: 13 March 2023
+From: 07 March 2023 - To: 14 March 2023
 
-Solidity     2 hrs 45 mins   ████████████▒░░░░░░░░░░░░   49.28 %
-TypeScript   1 hr 40 mins    ███████▒░░░░░░░░░░░░░░░░░   29.91 %
-JavaScript   1 hr 9 mins     █████▒░░░░░░░░░░░░░░░░░░░   20.80 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+JavaScript   1 hr 9 mins     ██████████░░░░░░░░░░░░░░░   40.07 %
+TypeScript   59 mins         ████████▒░░░░░░░░░░░░░░░░   33.85 %
+Solidity     45 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.06 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
