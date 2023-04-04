@@ -41,14 +41,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 March 2023 - To: 02 April 2023
+From: 27 March 2023 - To: 03 April 2023
 
-TypeScript   49 mins         ████████████████████▓░░░░   82.32 %
-GraphQL      4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
-JSON         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
-Solidity     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
