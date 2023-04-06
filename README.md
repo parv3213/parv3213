@@ -41,10 +41,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 March 2023 - To: 04 April 2023
+From: 29 March 2023 - To: 05 April 2023
 
-Solidity     31 mins         █████████████████████▓░░░   86.95 %
-TypeScript   4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 %
+Solidity     31 mins         ████████████████▓░░░░░░░░   66.52 %
+TypeScript   16 mins         ████████▒░░░░░░░░░░░░░░░░   33.48 %
 ```
 
 <!--END_SECTION:waka-->
