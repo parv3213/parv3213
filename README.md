@@ -41,10 +41,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 April 2023 - To: 10 April 2023
+From: 04 April 2023 - To: 11 April 2023
 
-Solidity     31 mins         ████████████████▓░░░░░░░░   66.40 %
-TypeScript   16 mins         ████████▒░░░░░░░░░░░░░░░░   33.60 %
+TypeScript   49 mins         █████████████▒░░░░░░░░░░░   53.59 %
+Solidity     27 mins         ███████▒░░░░░░░░░░░░░░░░░   29.96 %
+GraphQL      13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.05 %
+YAML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 ```
 
 <!--END_SECTION:waka-->
