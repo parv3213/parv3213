@@ -41,7 +41,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 April 2023 - To: 23 April 2023
+From: 17 April 2023 - To: 24 April 2023
 
 TypeScript   6 hrs 9 mins    ██████████████████████░░░   88.24 %
 Solidity     19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
