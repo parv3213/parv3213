@@ -41,13 +41,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 May 2023 - To: 05 June 2023
+From: 30 May 2023 - To: 06 June 2023
 
-TypeScript   1 hr 58 mins    █████████████████████▓░░░   87.24 %
-Bash         9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
-JSON         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-Solidity     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+TypeScript   25 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
