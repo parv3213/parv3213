@@ -41,11 +41,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 August 2023 - To: 11 August 2023
+From: 05 August 2023 - To: 12 August 2023
 
-Other        4 mins          ███████████████░░░░░░░░░░   59.71 %
-Solidity     2 mins          █████████▓░░░░░░░░░░░░░░░   38.76 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Solidity     1 hr 58 mins    ██████████████▒░░░░░░░░░░   57.65 %
+Other        1 hr 9 mins     ████████▓░░░░░░░░░░░░░░░░   34.06 %
+Markdown     15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
+TypeScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
