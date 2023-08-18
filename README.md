@@ -41,7 +41,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2023 - To: 16 August 2023
+From: 10 August 2023 - To: 17 August 2023
 
 Solidity     2 hrs 31 mins   ████████████████░░░░░░░░░   64.52 %
 Other        1 hr 6 mins     ███████░░░░░░░░░░░░░░░░░░   28.29 %
