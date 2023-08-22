@@ -41,7 +41,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 August 2023 - To: 20 August 2023
+From: 14 August 2023 - To: 21 August 2023
 
 TypeScript   2 hrs 36 mins   ████████████████████░░░░░   79.43 %
 Solidity     34 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.68 %
