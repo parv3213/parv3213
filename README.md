@@ -41,13 +41,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 August 2023 - To: 26 August 2023
+From: 20 August 2023 - To: 27 August 2023
 
-TypeScript       3 hrs 17 mins   █████████████▓░░░░░░░░░░░   54.45 %
-Solidity         1 hr 27 mins    ██████░░░░░░░░░░░░░░░░░░░   24.12 %
-Markdown         42 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 %
-Other            21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
-Bash             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+TypeScript       3 hrs           █████████████░░░░░░░░░░░░   52.21 %
+Solidity         1 hr 27 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.30 %
+Markdown         42 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 %
+Other            21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+Bash             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
 ```
 
 <!--END_SECTION:waka-->
