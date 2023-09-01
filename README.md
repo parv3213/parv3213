@@ -41,13 +41,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 August 2023 - To: 30 August 2023
+From: 24 August 2023 - To: 31 August 2023
 
-TypeScript       2 hrs 35 mins   ████████████░░░░░░░░░░░░░   48.41 %
-Solidity         1 hr 27 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.32 %
-Markdown         42 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
-Other            21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
-Bash             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
