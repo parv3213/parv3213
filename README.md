@@ -41,9 +41,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2023 - To: 09 September 2023
+From: 03 September 2023 - To: 10 September 2023
 
-No activity tracked
+Solidity   28 mins         ████████████░░░░░░░░░░░░░   48.45 %
+JSON       20 mins         █████████░░░░░░░░░░░░░░░░   35.42 %
+YAML       6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
+Python     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Markdown   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
 ```
 
 <!--END_SECTION:waka-->
