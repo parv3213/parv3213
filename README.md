@@ -41,13 +41,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 September 2023 - To: 22 September 2023
+From: 16 September 2023 - To: 23 September 2023
 
-Solidity       9 hrs 22 mins   ████████████████████▒░░░░   81.39 %
-YAML           1 hr 1 min      ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
-JSON           33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
-Bash           14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-TOML           8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Solidity       9 hrs 47 mins   █████████████████░░░░░░░░   67.79 %
+JSON           2 hrs 16 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.79 %
+YAML           1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
+Bash           37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+Ezhil          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 ```
 
 <!--END_SECTION:waka-->
