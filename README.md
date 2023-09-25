@@ -41,7 +41,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2023 - To: 23 September 2023
+From: 17 September 2023 - To: 24 September 2023
 
 Solidity       9 hrs 47 mins   █████████████████░░░░░░░░   67.79 %
 JSON           2 hrs 16 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.79 %
