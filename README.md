@@ -41,13 +41,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2023 - To: 08 October 2023
+From: 02 October 2023 - To: 09 October 2023
 
-Solidity     5 hrs 38 mins   ██████████████▒░░░░░░░░░░   57.44 %
-JSON         1 hr 59 mins    █████░░░░░░░░░░░░░░░░░░░░   20.30 %
-TypeScript   59 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
-Other        48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
-YAML         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+Solidity     10 hrs 11 mins  █████████████████▓░░░░░░░   70.14 %
+JSON         2 hrs 5 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.38 %
+TypeScript   59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
+Other        52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
+YAML         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 ```
 
 <!--END_SECTION:waka-->
