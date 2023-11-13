@@ -41,7 +41,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 November 2023 - To: 10 November 2023
+From: 04 November 2023 - To: 11 November 2023
 
 Solidity   16 hrs 48 mins  ████████████████████████▒   97.13 %
 Other      21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
