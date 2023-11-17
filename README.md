@@ -41,13 +41,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 November 2023 - To: 14 November 2023
+From: 09 November 2023 - To: 16 November 2023
 
-Solidity   8 hrs 33 mins   ███████████████████████░░   92.20 %
-Other      31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
-Markdown   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Solidity   12 hrs 48 mins  ██████████████████████░░░   87.92 %
+TOML       52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+Other      22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+Bash       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Markdown   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 ```
 
 <!--END_SECTION:waka-->
