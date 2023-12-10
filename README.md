@@ -41,7 +41,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 December 2023 - To: 08 December 2023
+From: 02 December 2023 - To: 09 December 2023
 
 Solidity     2 hrs 49 mins   ███████████████░░░░░░░░░░   60.33 %
 JavaScript   46 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.62 %
