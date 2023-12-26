@@ -41,13 +41,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 December 2023 - To: 24 December 2023
+From: 18 December 2023 - To: 25 December 2023
 
-Solidity     6 hrs 56 mins   ██████████████▓░░░░░░░░░░   58.84 %
-Other        3 hrs 47 mins   ████████░░░░░░░░░░░░░░░░░   32.14 %
-Bash         31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
-Markdown     23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
-JSON         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Solidity     6 hrs 15 mins   ██████████████▒░░░░░░░░░░   57.95 %
+Other        3 hrs 45 mins   ████████▓░░░░░░░░░░░░░░░░   34.77 %
+Markdown     23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+Bash         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
