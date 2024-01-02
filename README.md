@@ -41,7 +41,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2023 - To: 31 December 2023
+From: 25 December 2023 - To: 01 January 2024
 
 Python     4 hrs           ████████████▓░░░░░░░░░░░░   50.65 %
 Solidity   3 hrs 28 mins   ███████████░░░░░░░░░░░░░░   44.00 %
