@@ -41,13 +41,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 December 2023 - To: 03 January 2024
+From: 29 December 2023 - To: 05 January 2024
 
-Solidity     7 hrs 14 mins   ██████████████████▒░░░░░░   73.81 %
-Python       1 hr 42 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.37 %
-JSON         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
-YAML         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-Markdown     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Solidity     8 hrs 6 mins    █████████████▓░░░░░░░░░░░   54.50 %
+Python       4 hrs 36 mins   ███████▓░░░░░░░░░░░░░░░░░   30.98 %
+JSON         1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
+YAML         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 ```
 
 <!--END_SECTION:waka-->
