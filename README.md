@@ -41,13 +41,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 January 2024 - To: 29 January 2024
+From: 23 January 2024 - To: 30 January 2024
 
-Solidity   7 hrs 47 mins   ████████████████▓░░░░░░░░   66.61 %
-YAML       2 hrs 4 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.69 %
-Bash       58 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
-Other      33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
-Markdown   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Solidity   4 hrs 57 mins   ███████████░░░░░░░░░░░░░░   43.51 %
+YAML       3 hrs 50 mins   ████████▒░░░░░░░░░░░░░░░░   33.73 %
+Bash       1 hr 12 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
+Other      1 hr 4 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
+Markdown   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 ```
 
 <!--END_SECTION:waka-->
