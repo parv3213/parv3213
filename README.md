@@ -41,13 +41,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 March 2024 - To: 21 March 2024
+From: 15 March 2024 - To: 22 March 2024
 
-TypeScript   20 hrs 30 mins  ██████████████████░░░░░░░   71.91 %
-Solidity     3 hrs 23 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
-GraphQL      2 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
-JSON         1 hr 40 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
-Bash         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+TypeScript   22 hrs 31 mins  ██████████████████░░░░░░░   71.82 %
+Solidity     3 hrs 6 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
+GraphQL      2 hrs 7 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
+JSON         2 hrs 7 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
+Bash         40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
 ```
 
 <!--END_SECTION:waka-->
