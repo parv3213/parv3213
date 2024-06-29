@@ -41,13 +41,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 June 2024 - To: 27 June 2024
+From: 21 June 2024 - To: 28 June 2024
 
-Solidity     15 hrs 7 mins   ███████████████████████▒░   93.70 %
-TypeScript   49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
-Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Solidity     12 hrs 42 mins  ██████████████████▒░░░░░░   73.22 %
+TypeScript   4 hrs 26 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.56 %
+Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+GraphQL      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
