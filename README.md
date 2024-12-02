@@ -41,7 +41,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 November 2024 - To: 30 November 2024
+From: 24 November 2024 - To: 01 December 2024
 
 Solidity     8 hrs           ████████████░░░░░░░░░░░░░   48.14 %
 TypeScript   6 hrs 21 mins   █████████▓░░░░░░░░░░░░░░░   38.27 %
