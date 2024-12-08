@@ -41,13 +41,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 November 2024 - To: 05 December 2024
+From: 29 November 2024 - To: 06 December 2024
 
-TypeScript   10 hrs 37 mins  ██████████████▒░░░░░░░░░░   57.00 %
-Solidity     4 hrs 54 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.34 %
-Bash         1 hr 38 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
-Other        1 hr 17 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
-JSON         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+TypeScript   10 hrs 42 mins  ███████████████▒░░░░░░░░░   61.78 %
+Solidity     3 hrs 33 mins   █████░░░░░░░░░░░░░░░░░░░░   20.52 %
+Bash         1 hr 30 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
+Other        1 hr 26 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
+JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
