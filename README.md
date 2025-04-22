@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2025 - To: 20 April 2025
+From: 14 April 2025 - To: 21 April 2025
 
-TypeScript    5 hrs 55 mins   █████████████████░░░░░░░░   67.60 %
-Solidity      1 hr 27 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.61 %
-JSON          33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
-GraphQL       22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-Other         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+TypeScript    4 hrs 3 mins    ██████████████▓░░░░░░░░░░   58.96 %
+Solidity      1 hr 47 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.90 %
+GraphQL       22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
+Other         17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+JSON          10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
 ```
 
 <!--END_SECTION:waka-->
