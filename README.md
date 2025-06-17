@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 June 2025 - To: 15 June 2025
+From: 09 June 2025 - To: 16 June 2025
 
-Solidity     3 hrs 28 mins   █████████▓░░░░░░░░░░░░░░░   38.21 %
-YAML         1 hr 26 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.80 %
-Other        1 hr 15 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.75 %
-Bash         1 hr 14 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 %
-TypeScript   1 hr 13 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.47 %
+Solidity     3 hrs 27 mins   ██████████▒░░░░░░░░░░░░░░   41.93 %
+YAML         1 hr 26 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.45 %
+Other        1 hr 13 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.87 %
+TypeScript   57 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
+Bash         43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
 ```
 
 <!--END_SECTION:waka-->
