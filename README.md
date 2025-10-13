@@ -17,7 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 October 2025 - To: 11 October 2025
+From: 05 October 2025 - To: 12 October 2025
 
 TypeScript   13 hrs 28 mins  ██████████████████████░░░   87.42 %
 SCSS         45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
