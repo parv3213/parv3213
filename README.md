@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 December 2025 - To: 08 December 2025
+From: 02 December 2025 - To: 09 December 2025
 
-TypeScript   5 hrs 55 mins   ██████████████▒░░░░░░░░░░   56.90 %
-Go           3 hrs 29 mins   ████████▒░░░░░░░░░░░░░░░░   33.48 %
-Text         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-Other        16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-Bash         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+TypeScript   5 hrs 55 mins   ██████████████▓░░░░░░░░░░   58.72 %
+Go           3 hrs 29 mins   ████████▓░░░░░░░░░░░░░░░░   34.55 %
+Other        16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+Bash         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+YAML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 ```
 
 <!--END_SECTION:waka-->
