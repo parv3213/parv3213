@@ -16,13 +16,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 March 2026 - To: 25 March 2026
+From: 19 March 2026 - To: 26 March 2026
 
-Solidity     4 hrs 26 mins         ████████████████████▒░░░░   80.88 %
-TypeScript   33 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
-JSON         11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-Markdown     7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-TOML         5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+Solidity     2 hrs 9 mins          ████████████████████░░░░░   79.56 %
+TypeScript   33 mins               █████░░░░░░░░░░░░░░░░░░░░   20.31 %
+Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
