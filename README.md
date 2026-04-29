@@ -8,7 +8,7 @@
   <p>I build robust SaaS platforms and secure DeFi protocols. With 5+ years of experience, I ship end-to-end systems with Node.js, React, Go, and Solidity — focused on scalable architecture, reliability, and experiences that feel good to use.</p>
 
   <p>
-    <a href="https://parv3213.xyz" target="_blank" rel="noopener noreferrer"><img alt="Website" src="https://img.shields.io/badge/website-parv3213.xyz-6366f1?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+    <a href="https://parv3213.online" target="_blank" rel="noopener noreferrer"><img alt="Website" src="https://img.shields.io/badge/website-parv3213.xyz-6366f1?style=flat-square&logo=googlechrome&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/parv3213" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
     <a href="https://x.com/parv3213" target="_blank" rel="noopener noreferrer"><img alt="X" src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
     <a href="mailto:parv3213@gmail.com" target="_blank" rel="noopener noreferrer"><img alt="Email" src="https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
